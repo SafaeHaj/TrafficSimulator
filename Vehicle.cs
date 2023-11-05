@@ -75,8 +75,5 @@ public class BaseVehicle : MonoBehaviour
     }
 }
 
-public class VehicleSpawner : Placeable {
-    
-}
 
 
