@@ -1,0 +1,6 @@
+stuff to do:
+
+renaming roads
+figure out GRID_SIZE optimal value
+
+make it so generated gameobjects get parented by manager
