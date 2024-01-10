@@ -9,3 +9,5 @@ This GitHub repository houses our Unity-based project—an advanced traffic simu
 - **📂 assets:** Here, you'll find images created with Adobe Illustrator, serving as vital assets for the project.
 
 - **project.zip**: main project, complete with added unity files.
+
+Contact us in case you need help installing the project within unity.
